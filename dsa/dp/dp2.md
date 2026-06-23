@@ -1,7 +1,5 @@
 # Dynamic Programming & Recursion Revision Guide
 
-*A comprehensive, deep-dive revision guide engineered to achieve true technical mastery through deep conceptual understanding. Focuses on the "why" behind state transitions and aggressively optimizing space complexity.*
-
 ## The Universal Framework for DP & Recursion
 
 Before jumping into specific patterns, always anchor back to this 3-step thought process for defining recursive DP:
