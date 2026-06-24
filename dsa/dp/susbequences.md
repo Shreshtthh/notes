@@ -1,4 +1,4 @@
-# DP on Subsequences Revision Guide
+# DP on Subsequences
 ### 1. Subset Sum Equal to Target (DP-14)
 **Problem**: Given an array `ARR` with `N` positive integers, find if there is a subset (subsequence) with a sum equal to `target`. 
 **The "Why" (Intuition)**:
